@@ -10,7 +10,7 @@ Sensor EDR 主要组成部分：
 - Sensor Data Center
 - Dynamic analysis, association, traceability, disposal 
 
-本次主要发布Sensor Client，这是专门为windows终端安全设计的开发的，基本覆盖需要的数据场景，技术指标，分析指标，文件引擎，Attck引擎等等
+本次主要发布Sensor Client，这是专门为windows终端安全设计的开发的，基本覆盖需要的数据场景，技术指标，分析指标，文件引擎，Attck引擎，Powershell，Sdb，dll侧道等等
 
 ## 安装
 
