@@ -14,10 +14,15 @@ Sensor EDR 主要组成部分：
 
 ## 安装
 
-| 包名                 | 包大小  | 下载连接 |
-| -------------------- | ------- | -------- |
-| sensor_x64_setup.exe | 6.96 MB |          |
-| sensor_x86_setup.exe | 5.80 MB |          |
+可以在github，release二进制发布区下载v1.0.0版本，也可以从百度网盘下载。
+
+链接：https://pan.baidu.com/s/1fWB4sU-tj52mszHZZ_cv5g?pwd=sens 
+提取码：sens
+
+| 包名                 | 包大小  | 下载连接                                                 |
+| -------------------- | ------- | -------------------------------------------------------- |
+| sensor_x64_setup.exe | 6.96 MB | https://pan.baidu.com/s/1fWB4sU-tj52mszHZZ_cv5g?pwd=sens |
+| sensor_x86_setup.exe | 5.80 MB | https://pan.baidu.com/s/1fWB4sU-tj52mszHZZ_cv5g?pwd=sens |
 
 ### 安装注意事项
 
