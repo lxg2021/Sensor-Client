@@ -59,7 +59,7 @@ Sensor EDR 主要组成部分：
 
 `C:\Program Files\SensorEdr\data\forensics.db`
 
-![](https://github.com/lxg2021/Sensor-Client/blob/main/png/sqlite.png)
+![image](https://github.com/lxg2021/Sensor-Client/blob/main/png/sqlite.png)
 
 
 
@@ -1877,7 +1877,7 @@ Client为大家准备了DashBoard，用于观测产生的探针数据，DashBoar
 
 `C:\Program Files\SensorEdr\frametool.exe` 双击运行，界面如下，打开工具后，在界面刷新：
 
-![](https://github.com/lxg2021/Sensor-Client/blob/main/png/dashboard.png)
+![image](https://github.com/lxg2021/Sensor-Client/blob/main/png/dashboard.png)
 
 左侧：模块功能接口，Attck IOA测试用例
 
